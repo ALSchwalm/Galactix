@@ -1,0 +1,153 @@
+# depslib dependency file v1.0
+1325887613 source:e:\users\adam\my programs\c++\galactix\main.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_ttf.h"
+
+1329027485 source:e:\users\adam\my programs\c++\galactix\src\main.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_ttf.h"
+	"Fighter.h"
+	"Global.h"
+	"Render.h"
+	"Terrain.h"
+	<time.h>
+
+1328906752 source:e:\users\adam\my programs\c++\galactix\src\cell.cpp
+	"Cell.h"
+	"SDL/SDL.h"
+
+1327533756 source:e:\users\adam\my programs\c++\galactix\src\ship.cpp
+	"Ship.h"
+
+1328906596 source:e:\users\adam\my programs\c++\galactix\src\obj.cpp
+	"Obj.h"
+
+1328908305 source:e:\users\adam\my programs\c++\galactix\src\space.cpp
+	"Space.h"
+
+1329024216 source:e:\users\adam\my programs\c++\galactix\src\global.cpp
+	"Global.h"
+
+1328906168 source:e:\users\adam\my programs\c++\galactix\src\infopanel.cpp
+	"InfoPanel.h"
+
+1328761479 source:e:\users\adam\my programs\c++\galactix\src\render.cpp
+	"Render.h"
+
+1329007132 source:e:\users\adam\my programs\c++\galactix\src\player.cpp
+	"Player.h"
+
+1328992202 source:e:\users\adam\my programs\c++\galactix\src\minmap.cpp
+	"MinMap.h"
+
+1328905459 source:e:\users\adam\my programs\c++\galactix\src\menu.cpp
+	"Menu.h"
+
+1328905356 source:e:\users\adam\my programs\c++\galactix\src\button.cpp
+	"Button.h"
+
+1333245400 source:e:\users\adam\my programs\c++\galactix\src\game.cpp
+	"Game.h"
+
+1329026549 source:e:\users\adam\my programs\c++\galactix\src\fighter.cpp
+	"Fighter.h"
+
+1328908269 source:e:\users\adam\my programs\c++\galactix\src\asteroidfield.cpp
+	"AsteroidField.h"
+
+1328907295 source:e:\users\adam\my programs\c++\galactix\src\terrain.cpp
+	"Terrain.h"
+
+1328125287 source:e:\users\adam\my programs\c++\galactix\src\noiseutils.cpp
+	<fstream>
+	<noise/interp.h>
+	<noise/mathconsts.h>
+	"noiseutils.h"
+
+1328908287 e:\users\adam\my programs\c++\galactix\include\asteroidfield.h
+	"Space.h"
+
+1328908329 e:\users\adam\my programs\c++\galactix\include\space.h
+	"SDL/SDL.h"
+	"Global.h"
+	<string>
+
+1328764171 e:\users\adam\my programs\c++\galactix\include\global.h
+	"SDL/SDL.h"
+	"SDL/SDL_ttf.h"
+	"Cell.h"
+	"Player.h"
+	"Menu.h"
+	<vector>
+	<iostream>
+
+1328140162 e:\users\adam\my programs\c++\galactix\include\cell.h
+	"SDL/SDL.h"
+	"Obj.h"
+	"Space.h"
+
+1329026060 e:\users\adam\my programs\c++\galactix\include\obj.h
+	"SDL/SDL.h"
+	"SDL/SDL_ttf.h"
+	"Global.h"
+	"Cell.h"
+	<vector>
+	<string>
+
+1329024728 e:\users\adam\my programs\c++\galactix\include\player.h
+	"SDL/SDL.h"
+	"InfoPanel.h"
+	<vector>
+
+1328842890 e:\users\adam\my programs\c++\galactix\include\infopanel.h
+	"SDL/SDL.h"
+	"SDL/SDL_ttf.h"
+	<sstream>
+	"Space.h"
+	"Render.h"
+	"MinMap.h"
+
+1327895557 e:\users\adam\my programs\c++\galactix\include\render.h
+	"SDL/SDL.h"
+	"Global.h"
+
+1328842604 e:\users\adam\my programs\c++\galactix\include\minmap.h
+	"Cell.h"
+	"Global.h"
+	"Render.h"
+	"math.h"
+
+1327717392 e:\users\adam\my programs\c++\galactix\include\menu.h
+	"Button.h"
+	"Global.h"
+	"Game.h"
+
+1327365561 e:\users\adam\my programs\c++\galactix\include\button.h
+	"SDL/SDL.h"
+	"SDL/SDL_ttf.h"
+	"Render.h"
+	"string"
+
+1329329514 e:\users\adam\my programs\c++\galactix\include\game.h
+	"Global.h"
+	<algorithm>
+
+1329026096 e:\users\adam\my programs\c++\galactix\include\fighter.h
+	"Obj.h"
+	"Global.h"
+	"Render.h"
+
+1328138194 e:\users\adam\my programs\c++\galactix\include\terrain.h
+	"Global.h"
+	"AsteroidField.h"
+	"Space.h"
+	<noise/noise.h>
+	<noiseutils.h>
+
+1328124596 e:\users\adam\my programs\c++\galactix\include\noiseutils.h
+	<stdlib.h>
+	<string.h>
+	<string>
+	<noise/noise.h>
+	<noise/model/cylinder.h>
+

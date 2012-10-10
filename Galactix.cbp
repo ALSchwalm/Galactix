@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Galactix" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin\Debug\Galactix" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="E:\Users\Adam\My Programs\C++\Galactix\bin\Debug" />
+				<Option object_output="obj\Debug\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Option use_console_runner="0" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add library="F:\libnoise\bin\libnoise.a" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin\Release\Galactix" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Release\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Unit filename="include\AsteroidField.h" />
+		<Unit filename="include\Button.h" />
+		<Unit filename="include\Cell.h" />
+		<Unit filename="include\Fighter.h" />
+		<Unit filename="include\Game.h" />
+		<Unit filename="include\Global.h" />
+		<Unit filename="include\InfoPanel.h" />
+		<Unit filename="include\Menu.h" />
+		<Unit filename="include\MinMap.h" />
+		<Unit filename="include\Obj.h" />
+		<Unit filename="include\Player.h" />
+		<Unit filename="include\Render.h" />
+		<Unit filename="include\Space.h" />
+		<Unit filename="include\Terrain.h" />
+		<Unit filename="include\noiseutils.h" />
+		<Unit filename="src\AsteroidField.cpp" />
+		<Unit filename="src\Button.cpp" />
+		<Unit filename="src\Cell.cpp" />
+		<Unit filename="src\Fighter.cpp" />
+		<Unit filename="src\Game.cpp" />
+		<Unit filename="src\Global.cpp" />
+		<Unit filename="src\InfoPanel.cpp" />
+		<Unit filename="src\Menu.cpp" />
+		<Unit filename="src\MinMap.cpp" />
+		<Unit filename="src\Obj.cpp" />
+		<Unit filename="src\Player.cpp" />
+		<Unit filename="src\Render.cpp" />
+		<Unit filename="src\Space.cpp" />
+		<Unit filename="src\Terrain.cpp" />
+		<Unit filename="src\main.cpp" />
+		<Unit filename="src\noiseutils.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
